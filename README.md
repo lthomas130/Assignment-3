@@ -9,3 +9,8 @@ Make sure you have Node.js installed, then run:
 
 ```bash
 npm install
+npm run dev
+
+```
+
+Copy the LocalHost link that is given and put it into your brower.
